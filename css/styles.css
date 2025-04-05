@@ -102,6 +102,10 @@ h2 {
   letter-spacing: 0.02em;
   color: var(--navy-blue);
 }
+
+.header-navigation:hover {
+  color: var(--ocean);
+}
 /* ------------------------------ */
 
 /* address in nav */
