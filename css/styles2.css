@@ -24,7 +24,6 @@ body {
   color: var(--slate);
   background-color: var(--white);
 }
-
 /* ------------------------------ */
 
 /* links without underline */
@@ -47,7 +46,6 @@ h3 {
 }
 
 /* p  */
-
 p {
   font-family: var(--font-family);
 
@@ -101,20 +99,6 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
-}
-/* ------------------------------ */
-
-/* address in nav */
-.header > address {
-  font-family: var(--font-family);
-
-  font-weight: 400;
-  font-size: 16px;
-
-  /* line-height: 24px; */
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
 }
 /* ------------------------------ */
 
