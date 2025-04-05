@@ -86,8 +86,8 @@ h2 {
   color: var(--navy-blue);
 }
 
-.logo-second-color {
-  color: #4d5ae5;
+.logo span {
+  color: var(--iris);
 }
 
 /* navigation tab in nav */
