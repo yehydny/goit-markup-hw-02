@@ -73,7 +73,7 @@ h2 {
 }
 
 /* logo in nav*/
-.header > nav > {
+.logo {
   font-family: var(--second-family);
 
   font-weight: 700;
@@ -86,7 +86,7 @@ h2 {
   color: var(--navy-blue);
 }
 
-.header > nav > a > span {
+.logo > span {
   color: #4d5ae5;
 }
 
