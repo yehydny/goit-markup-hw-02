@@ -91,7 +91,7 @@ h2 {
 }
 
 /* navigation tab in nav */
-.header > nav {
+.header-navigation {
   font-family: var(--font-family);
 
   font-weight: 500;
