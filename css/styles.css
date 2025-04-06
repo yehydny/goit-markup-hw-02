@@ -72,6 +72,18 @@ p {
   color: var(--navy-blue);
 }
 
+.class-h2-second {
+  font-family: var(--font-family);
+
+  font-weight: 700;
+  font-size: 36px;
+
+  /* line-height: 40px; */
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+
 /* logo in nav*/
 .logo {
   font-family: var(--second-family);
