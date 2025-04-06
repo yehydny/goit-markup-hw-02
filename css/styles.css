@@ -191,6 +191,18 @@ p {
   letter-spacing: 0.02em;
   color: var(--slate);
 }
+
+.class-h3 {
+  font-family: var(--font-family);
+
+  font-weight: 500;
+  font-size: 20px;
+
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
 /* ------------------------------ */
 
 /* our team section */
