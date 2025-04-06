@@ -119,20 +119,7 @@ h2 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--slate);
-}
-/* ------------------------------ */
-
-/* address in nav */
-.header-address {
-  font-family: var(--font-family);
-
-  font-weight: 400;
-  font-size: 16px;
-
-  /* line-height: 24px; */
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
+  font-style: normal;
 }
 /* ------------------------------ */
 
