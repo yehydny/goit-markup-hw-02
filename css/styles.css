@@ -128,7 +128,8 @@ p {
   color: var(--navy-blue);
 }
 
-.header-navigation:focus {
+.header-navigation:focus,
+.header-navigation:hover {
   color: var(--ocean);
 }
 /* ------------------------------ */
