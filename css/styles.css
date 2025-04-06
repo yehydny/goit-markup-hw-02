@@ -60,7 +60,7 @@ p {
   color: var(--slate);
 }
 
-h2 {
+.h2 {
   font-family: var(--font-family);
 
   font-weight: 700;
