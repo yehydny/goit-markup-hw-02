@@ -174,7 +174,7 @@ p {
 
 /* advantages section settings */
 /* h2 (is hidden with white color) */
-.advantages-section > h2 {
+.class-h2-advantages {
   color: var(--white);
 }
 /* ------------------------------ */
