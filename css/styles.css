@@ -132,6 +132,11 @@ p {
 .header-navigation:hover {
   color: var(--ocean);
 }
+
+.header-address-link:focus,
+.header-address-link:hover {
+  color: var(--ocean);
+}
 /* ------------------------------ */
 
 /* address in nav */
