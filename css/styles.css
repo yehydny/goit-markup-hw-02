@@ -128,13 +128,13 @@ p {
   color: var(--navy-blue);
 }
 
-.header-navigation:focus,
-.header-navigation:hover {
+.header-navigation:hover,
+.header-navigation:focus {
   color: var(--ocean);
 }
 
-.header-address-link:focus,
-.header-address-link:hover {
+.header-address-link:hover,
+.header-address-link:focus {
   color: var(--ocean);
 }
 /* ------------------------------ */
@@ -188,6 +188,13 @@ p {
   color: var(--white);
 
   background: var(--iris);
+
+  cursor: pointer;
+}
+
+.order-button:hover,
+.order-button:focus {
+  background-color: var(--ocean);
 }
 /* ------------------------------ */
 
