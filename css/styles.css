@@ -93,6 +93,24 @@ p {
   color: var(--navy-blue);
 }
 
+/* logo in footer*/
+.logo-footer {
+  font-family: var(--second-family);
+
+  font-weight: 700;
+  font-size: 18px;
+
+  /* line-height: 21px; */
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--iris);
+}
+
+.logo-second-color-footer {
+  color: var(--cloud);
+}
+
 /* navigation tab in nav */
 .header-navigation {
   font-family: var(--font-family);
