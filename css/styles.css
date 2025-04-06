@@ -111,6 +111,10 @@ p {
   color: var(--cloud);
 }
 
+.footer-paragraph {
+  color: var(--cloud);
+}
+
 /* navigation tab in nav */
 .header-navigation {
   font-family: var(--font-family);
@@ -227,26 +231,4 @@ p {
 /* footer  */
 .footer {
   background-color: var(--navy-blue);
-}
-
-/* logo footer  */
-.footer > a {
-  font-family: var(--second-family);
-
-  font-weight: 700;
-  font-size: 18px;
-
-  /* line-height: 21px; */
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--cloud);
-}
-
-.footer > a > span {
-  color: var(--iris);
-}
-
-.footer > p {
-  color: var(--cloud);
 }
