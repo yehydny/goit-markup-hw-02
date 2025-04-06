@@ -79,9 +79,12 @@ p {
   font-size: 36px;
 
   /* line-height: 40px; */
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: var(--navy-blue);
+
+  text-align: center;
+  text-transform: capitalize;
 }
 
 /* logo in nav*/
